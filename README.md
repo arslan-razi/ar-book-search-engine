@@ -18,7 +18,7 @@
 
 ## Deployment URL
 
-https://ucb-book-search-engine.herokuapp.com/.
+https://ar-book-search.herokuapp.com/
 
 ## Repo URL
 
